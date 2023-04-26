@@ -1,4 +1,5 @@
 # CourseEra
+title:Shaheer khan
 _config.yml
 theme: jekyll-theme-minimal
 title: Octocat's homepage
